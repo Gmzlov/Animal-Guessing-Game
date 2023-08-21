@@ -1,0 +1,13 @@
+# Updates
+
+## BETA Version 0.1 - [21/8/2023]
+
+- Initial release of the Animal Guessing Game.
+- Allows players to guess animals based on their starting letters.
+- Three categories of animals: water, wild, and sky.
+- Players have three attempts to guess the correct animal.
+- Incorrect guesses reveal additional letters of the animal's name.
+- Case-insensitive input for guessing.
+- Displays the correct animal after three incorrect attempts.
+
+Created by: [Gmzlov](https://https://github.com/Gmzlov)
