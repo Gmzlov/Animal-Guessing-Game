@@ -11,3 +11,7 @@
 - Displays the correct animal after three incorrect attempts.
 
 Created by: [Gmzlov](https://https://github.com/Gmzlov)
+
+## BETA Version 0.2 - [22/8/2023] Update :
+
+- Bugs and problems fixed
